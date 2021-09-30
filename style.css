@@ -1,0 +1,25 @@
+ .btn-warning:hover{
+
+    background-color: aqua;
+ }
+
+ canvas{
+
+    animation-name: name_1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
+
+ @keyframes name_1{
+
+    from{box-shadow:4px 4px 10px darkred  ;}
+    to{box-shadow: 4px 4px 10px orangered  ;}
+ }
+
+ h3{
+
+    font-family:  'Zen Tokyo Zoo', cursive !important;
+    font-size:40px !important;
+ }
+
+  
